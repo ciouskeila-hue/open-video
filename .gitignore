@@ -1,0 +1,12 @@
+.gradle/
+build/
+**/build/
+local.properties
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+src/app/build/
+src/.gradle/
